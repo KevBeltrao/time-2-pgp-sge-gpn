@@ -2,9 +2,9 @@
 
 ## Escopo preliminar
 
-Se trata de um software de gestão que busca auxiliar coordenadores no gerenciamento das bolsas disponibilizadas pela UFPE. Esses coordenadores se tratam dos que gerenciam os gestores de bolsistas, sendo responsáveis pela distribuição dos recursos.
+Se trata de um software de gestão que busca auxiliar coordenadores no gerenciamento das bolsas disponibilizadas pela UFPE. Esses coordenadores se tratam dos responsáveis pela distribuição dos recursos.
 
-### Plano de RH
+## Plano de RH
 
 - **Equipe**
     - Definião de papeis no projeto
@@ -26,7 +26,7 @@ Se trata de um software de gestão que busca auxiliar coordenadores no gerenciam
     - Fazer contato inicial com os stakeholders
     - Planejar encontros para validação da solução
 
-### Plano de comunicação
+## Plano de comunicação
 
 - Contato inicial com os stakeholders
     - Pesquisa sobre pessoas responsáveis pelos setores das partes interessadas
