@@ -28,3 +28,6 @@
 - Github
 - Miro
 
+### 🗓️ Encontros
+- Com o cliente terças às 21h (Google Meet ou Discord)
+- Em equipe aos domingos às 8h e às 16h (Google Meet)
