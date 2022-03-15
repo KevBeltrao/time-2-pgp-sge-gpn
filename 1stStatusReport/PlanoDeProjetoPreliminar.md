@@ -2,7 +2,7 @@
 
 ## Escopo preliminar
 
-Se trata de um software de gestão que busca auxiliar coordenadores no gerenciamento das bolsas disponibilizadas pela UFPE. Esses coordenadores se tratam dos responsáveis pela distribuição dos recursos.
+Se trata de um software que busca auxiliar coordenadores - Administrativo-financeiros e de Unidade - na gestão de bolsas de desenvolvimento tecnológico e industrial da UFPE. 
 
 ## Plano de RH
 
