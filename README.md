@@ -5,7 +5,6 @@
 - Gustavo Henrique Lima Mendes de Almeida
 - José Edson Ferreira Júnior
 - Kevin Beltrão de Melo - **Gerente de Projeto**
-- Victoria Pantoja do Amaral
 
 ### 🧮 Metodologia 
 - [Kanban](https://pt.wikipedia.org/wiki/Kanban)
