@@ -1,0 +1,38 @@
+Plano de ação
+
+Envolvimento dos stakeholders
+
+Esforço homens/hora
+Time de 5 pessoas trabalhando 6 horas por dia cada, resultando em 30h diárias de trabalho e consequentemente 600h por mês.
+
+Prazo e cronograma
+O projeto foi planejado em 3 fases, sendo elas a fase de estruturação do projeto, a fase de desenvolvimento das funcionalidades de cotas e a fase do desenvolvimento das funcionalidades de bolsas. Foi estimado o prazo de 3 meses após o início do projeto.
+
+Custos
+Considerando uma remuneração de R$1000 ao mês por pessoa, o custo mensal será de R$5000 que resultará em R$15000 ao longo de 3 meses. Além dos custos indiretos, como conta de energia, internet, materiais de escritório, etc.
+
+Riscos
+Não ativação do módulo de bolsas no SIPAC
+Indisponibilidade de desenvolvedores
+Demora de adesão do novo módulo pelo CAF e/ou coordenador local de unidade
+
+Escopo de qualidade
+Uso de lint para garantir seguir o padrão já estabelecido no projeto
+Testes automatizados
+Envolvimento dos stakeholders nas fases de implementação
+
+Formas de comunicação
+Kanban (Trello)
+SCRUM
+Discord
+Google Calendar
+Github
+Figma
+
+Envolvimento dos stakeholders
+Gerenciamento de projeto pelo coordenador STI Labs
+Consulta de disponibilidade de desenvolvedores do STI Labs
+Mobilização de desenvolvedores do STI Labs
+Validação constante com o CAF
+
+
