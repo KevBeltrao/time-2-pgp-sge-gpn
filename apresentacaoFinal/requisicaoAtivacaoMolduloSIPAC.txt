@@ -1,0 +1,13 @@
+Documento de requisição de ativação do módulo de Bolsas/Auxílios do SIPAC.
+
+Solicitamos ao SIPAC a ativação do módulo de Bolsas/Auxílios. Trabalharemos com 2 tipos de usuários com diferentes níveis de permissão. O coordenador administrativo-financeiro precisará das permissões:
+1000003 GESTOR BOLSAS CENTRO
+1000002 GESTOR BOLSAS GLOBAL
+1000001 GESTOR BOLSAS LOCAL
+1000011 GESTOR COTAS
+1000008 GESTOR PLANEJAMENTO GLOBAL
+1000010 GESTOR RESPONSÁVEL ORCAMENTO
+1000005 GESTOR TIPOS BOLSA
+1000013 ORDENADOR DESPESAS
+E o coordenador local de unidade precisará da permissão:
+1000001 GESTOR BOLSAS LOCAL
