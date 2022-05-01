@@ -27,6 +27,9 @@
 - Github
 - Miro
 
+### 🧩 Protótipo da solução
+- [Figma](https://www.figma.com/file/ZkKMhyiLVV8i1FOReVn8u1/Gest%C3%A3o-de-Bolsas-Dev-Tech?node-id=0%3A1)
+
 ### 🗓️ Encontros
 - Com o cliente terças às 21h (Google Meet ou Discord)
 - Em equipe aos domingos às 8h e às 16h (Google Meet)
